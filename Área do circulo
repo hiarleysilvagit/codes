@@ -1,0 +1,10 @@
+//Calcular o valor 
+
+
+int main(){
+
+    float R = 12;
+    float PI = 3.1415926535;
+    float A = PI * (R * R);
+
+    printf("A área do circulo e igual a %f.\n", A);
